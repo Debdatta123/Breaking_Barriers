@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="img1">
 					
-						<img src="img/main_logo.png" alt="">
+						<img src="img/mainlogo.png" alt="">
 					
 				</div>
 				
@@ -61,7 +61,8 @@
          <p>
             <br> <br><br>
             <div style="text-align:center">          
-            <form action="db_upload_ps.php" method="POST" enctype="multipart/form-data" >
+			<form action="db_upload_ps
+			.php" method="POST" enctype="multipart/form-data" >
                 
                     
 					<input type="file" name="file" class="site-btn" ><br><br>

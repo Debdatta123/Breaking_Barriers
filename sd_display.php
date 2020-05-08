@@ -41,7 +41,7 @@ include "db_upload_sd.php";
 			<div class="row">
 				<div class="img1">
 					
-						<img src="img/main_logo.png" alt="">
+						<img src="img/mainlogo.png" alt="">
 					
 				</div>
 				

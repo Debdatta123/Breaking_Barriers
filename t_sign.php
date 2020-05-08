@@ -38,7 +38,7 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-3">
 					<div class="site-logo">
-						<img src="img/main_logo.png" alt="">
+						<img src="img/mainlogo.png" alt="">
 					</div>
 					<div class="nav-switch">
 						<i class="fa fa-bars"></i>
