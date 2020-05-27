@@ -1,16 +1,16 @@
 <?php
 session_start();
 
-$con=mysqli_connect('localhost','root');
+$con=mysqli_connect('db4free.net','breakingbarriers','testing@test','breakingbarriers');
 if($con)
 {
-    // echo "Connection Successful";
+    echo "Connection Successful";
 }
 else{
-    // echo "No Connection";
+    echo "No Connection";
 }
 
-mysqli_select_db($con, 'student');
+mysqli_select_db($con, 'breakingbarriers');
 
 $email = $_POST['email'];
 $pass = $_POST['password'];
