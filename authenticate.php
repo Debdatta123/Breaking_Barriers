@@ -1,7 +1,7 @@
 <?php
 session_start();
 // header('location:s_course.php');
-$con=mysqli_connect('db4free.net','breakingbarriers','testing@test','breakingbarriers');
+$con=mysqli_connect('host','your username','your password','your database name');
 if($con)
 {
     // echo "Connection Successful";

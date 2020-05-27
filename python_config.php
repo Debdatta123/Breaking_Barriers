@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-$dbHost     = "db4free.net";
-$dbUsername = "breakingbarriers";
-$dbPassword = "testing@test";
-$dbName     = "breakingbarriers";
+$dbHost     = "host";
+$dbUsername = "your username";
+$dbPassword = "your password";
+$dbName     = "your database name";
 
 // Create database connection
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
