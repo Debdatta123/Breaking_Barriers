@@ -27,8 +27,7 @@ if($num==1){
 
 }
 else{
-    echo "<script > alert('Invalid login');   </script>";
+    echo "<script > alert('Invalid login'); window.location='s_sign.php';  </script>";
 }
 
 ?>
-<!-- window.location='s_sign.php'; -->
