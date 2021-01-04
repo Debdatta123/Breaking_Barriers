@@ -4,11 +4,17 @@ Breaking Barriers provides a platform for solving one of the major barriers in e
 Go to the website: https://boiling-ravine-14873.herokuapp.com/
 ## Demo
 ### Overall Website
+
 ![](overall1.gif)
+
 ### Teacher Functionality
+
 ![](teacher.gif)
+
 ### Student Functionality
+
 ![](student.gif)
+
 ## Built With
 * [PHP](https://www.php.net/docs.php) - Programming Language
 * [MySQL](https://www.mysql.com/) - Database Used
